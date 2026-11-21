@@ -1,0 +1,19 @@
+{
+  "name": "The Game Vault",
+  "short_name": "Game Vault",
+  "description": "Bilingual live game show studio and manual scoring",
+  "id": "/The-vault-games/",
+  "start_url": "/The-vault-games/",
+  "scope": "/The-vault-games/",
+  "display": "standalone",
+  "background_color": "#100d1a",
+  "theme_color": "#100d1a",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
